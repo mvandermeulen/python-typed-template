@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - make
-- python >= 3.11
+- python >= 3.12
 - uv >= 0.5.0
 
 ## Getting started

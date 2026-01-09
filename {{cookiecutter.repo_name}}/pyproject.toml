@@ -3,7 +3,7 @@ name = "{{cookiecutter.project_name}}"
 description = "{{cookiecutter.description}}"
 version = "0.0.0"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = []
 
 [dependency-groups]
